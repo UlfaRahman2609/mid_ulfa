@@ -14,5 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('Tempat Tanggal Lahir : Cakke ');
+    return view('Tempat Tanggal Lahir : Cakke 26 september 1999 ');
 });
